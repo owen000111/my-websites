@@ -49,8 +49,8 @@ Welcome to my collection of web projects! Below are some websites I have created
   </tr>
   <tr>
     <td align="center">
-      <a href="http://randomlettergenerator.best/">
-        <img src="http://randomlettergenerator.best/logo.png" width="100" title="Generate random letters for games or fun experiments"/><br/>
+      <a href="https://randomlettergenerator.best/">
+        <img src="https://randomlettergenerator.best/logo.png" width="100" title="Generate random letters for fun experiments"/><br/>
         Random Letter Generator
       </a>
     </td>
